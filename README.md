@@ -1,4 +1,4 @@
-# 5A-2017-18
+# 5A - Giua Cagliari - a.s. 2017-18
 
 # Gestione Progetto e Organizzazione d'Impresa.
 
@@ -16,3 +16,7 @@
 2. [Information system and technology](https://docs.google.com/presentation/d/1DgxCtUR6n6ovOsWrQdEpb53Yh1Ux1zOUBsGR8HBrOMk/edit?usp=sharing).
 3. [History of Information System](https://docs.google.com/presentation/d/1Ajg89e86b-UEnUKgRlBaA-uDf1oKeDnUrMpdIf1SG3w/edit?usp=sharing).
 4. [Information System Introduction - TEST](https://goo.gl/forms/NmwBBuRsmf7MpxfW2).
+
+### 25 Ottobre 2017
+
+1. [Corporate titles](http://svel.to/oof).
