@@ -19,4 +19,8 @@
 
 ### 25 Ottobre 2017
 
-1. [Corporate titles](http://svel.to/oof).
+1. [Corporate titles](http://svel.to/oof), [TEST](http://svel.to/ovu )
+
+### 17 Novembre 2017
+
+1. [Sistemi interattivi e interfacce d'uso](http://svel.to/p3y), [TEST](http://svel.to/p3z)
