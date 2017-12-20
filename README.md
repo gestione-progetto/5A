@@ -28,3 +28,8 @@
 ### 24 Novembre 2017
 
 1. [Iperfunzionalismo](http://svel.to/p6t), [TEST](http://svel.to/p6v)
+
+
+## 20 dicembre 2017
+
+1 [Periferiche di input output](http://svel.to/ph1), [TEST](http://svel.to/pih)
