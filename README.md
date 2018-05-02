@@ -45,3 +45,11 @@
 ## 20 dicembre 2017
 
 1 [Periferiche di input output](http://svel.to/ph1), [TEST](http://svel.to/pih)
+
+## Gennaio-Marzo 2018
+* [Discussione di un articolo scientifico sul tema interfaccia e usabilità](http://svel.to/rq4), [TEST](http://svel.to/sdn)
+* [Esempi di siti poco usabili](http://svel.to/t7c)
+* [Methods and techniques to make a usable user interface](http://svel.to/smq), [TEST](http://svel.to/sps)
+* [Methods and techniques to redisign a user interface](http://svel.to/smr), [TEST](http://svel.to/spu)
+* [Agile Development Methods](http://svel.to/srd), [TEST](http://svel.to/t4r)
+* [XP software development methodology](http://svel.to/src), [TEST](http://svel.to/t4s)
